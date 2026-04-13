@@ -39,12 +39,26 @@ Deskgram 2 is a Telegram automation platform for account management, outreach wo
 ![Tasks](assets/screenshots/tasks-list__main__en.png)
 ![Settings](assets/screenshots/settings__main__en.png)
 
-## First wave guides
+## Execution guides
 
 - [Neuro Commenting](https://github.com/Deskgram-2/telegram-neuro-commenting-deskgram-en)
 - [Direct Messaging](https://github.com/Deskgram-2/telegram-direct-messaging-deskgram-en)
 - [Audience Parser](https://github.com/Deskgram-2/telegram-audience-parser-deskgram-en)
 - [Join Groups](https://github.com/Deskgram-2/telegram-join-groups-deskgram-en)
+
+## Infrastructure and control guides
+
+- [Invite Tool](https://github.com/Deskgram-2/telegram-invite-tool-deskgram-en)
+- [Proxy Manager](https://github.com/Deskgram-2/telegram-proxy-manager-deskgram-en)
+- [Account Manager](https://github.com/Deskgram-2/telegram-account-manager-deskgram-en)
+- [Task Manager](https://github.com/Deskgram-2/telegram-task-manager-deskgram-en)
+- [Automation Settings](https://github.com/Deskgram-2/telegram-automation-settings-deskgram-en)
+
+## Suggested workflow chains
+
+- [Account Manager](https://github.com/Deskgram-2/telegram-account-manager-deskgram-en) -> [Proxy Manager](https://github.com/Deskgram-2/telegram-proxy-manager-deskgram-en) -> [Automation Settings](https://github.com/Deskgram-2/telegram-automation-settings-deskgram-en) -> [Audience Parser](https://github.com/Deskgram-2/telegram-audience-parser-deskgram-en) -> [Direct Messaging](https://github.com/Deskgram-2/telegram-direct-messaging-deskgram-en)
+- [Account Manager](https://github.com/Deskgram-2/telegram-account-manager-deskgram-en) -> [Join Groups](https://github.com/Deskgram-2/telegram-join-groups-deskgram-en) -> [Invite Tool](https://github.com/Deskgram-2/telegram-invite-tool-deskgram-en)
+- [Automation Settings](https://github.com/Deskgram-2/telegram-automation-settings-deskgram-en) -> [Neuro Commenting](https://github.com/Deskgram-2/telegram-neuro-commenting-deskgram-en) -> [Task Manager](https://github.com/Deskgram-2/telegram-task-manager-deskgram-en)
 
 ## Quick start
 
@@ -57,10 +71,11 @@ Deskgram 2 is a Telegram automation platform for account management, outreach wo
 
 ## Suggested path
 
-1. Accounts panel to prepare the account base.
-2. Proxy and settings to build the working environment.
-3. Audience parser or join groups to prepare the infrastructure and source base.
-4. Direct messaging or AI modules for communication scenarios.
+1. [Account Manager](https://github.com/Deskgram-2/telegram-account-manager-deskgram-en) to prepare the account base.
+2. [Proxy Manager](https://github.com/Deskgram-2/telegram-proxy-manager-deskgram-en) and [Automation Settings](https://github.com/Deskgram-2/telegram-automation-settings-deskgram-en) to build the working environment.
+3. [Audience Parser](https://github.com/Deskgram-2/telegram-audience-parser-deskgram-en) or [Join Groups](https://github.com/Deskgram-2/telegram-join-groups-deskgram-en) to prepare the source base and infrastructure.
+4. [Direct Messaging](https://github.com/Deskgram-2/telegram-direct-messaging-deskgram-en), [Invite Tool](https://github.com/Deskgram-2/telegram-invite-tool-deskgram-en), or [Neuro Commenting](https://github.com/Deskgram-2/telegram-neuro-commenting-deskgram-en) for execution.
+5. [Task Manager](https://github.com/Deskgram-2/telegram-task-manager-deskgram-en) to monitor the workflow.
 
 ## FAQ
 
