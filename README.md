@@ -69,6 +69,15 @@ Deskgram 2 is a Telegram automation platform for account management, outreach wo
 - [Audience Parser](https://github.com/Deskgram-2/telegram-audience-parser-deskgram-en) -> [Invite Tool](https://github.com/Deskgram-2/telegram-invite-tool-deskgram-en) -> [Task Manager](https://github.com/Deskgram-2/telegram-task-manager-deskgram-en)
 - [Account Manager](https://github.com/Deskgram-2/telegram-account-manager-deskgram-en) -> [Join Groups](https://github.com/Deskgram-2/telegram-join-groups-deskgram-en) -> [Audience Parser](https://github.com/Deskgram-2/telegram-audience-parser-deskgram-en) -> [Direct Messaging](https://github.com/Deskgram-2/telegram-direct-messaging-deskgram-en)
 
+## What to choose for the first real outcome
+
+| If you want the first practical outcome to be | Better route |
+|---|---|
+| A usable audience base and private outreach | [Audience Parser](https://github.com/Deskgram-2/telegram-audience-parser-deskgram-en) -> [Direct Messaging](https://github.com/Deskgram-2/telegram-direct-messaging-deskgram-en) |
+| Community growth through environment preparation | [Join Groups](https://github.com/Deskgram-2/telegram-join-groups-deskgram-en) -> [Invite Tool](https://github.com/Deskgram-2/telegram-invite-tool-deskgram-en) |
+| AI-driven post engagement | [Automation Settings](https://github.com/Deskgram-2/telegram-automation-settings-deskgram-en) -> [Neuro Commenting](https://github.com/Deskgram-2/telegram-neuro-commenting-deskgram-en) |
+| Infrastructure readiness before any campaign starts | [Account Manager](https://github.com/Deskgram-2/telegram-account-manager-deskgram-en) -> [Proxy Manager](https://github.com/Deskgram-2/telegram-proxy-manager-deskgram-en) -> [Automation Settings](https://github.com/Deskgram-2/telegram-automation-settings-deskgram-en) |
+
 ## Quick start
 
 1. Add Telegram accounts to the system.
@@ -99,3 +108,17 @@ Yes. AI is already part of multiple modules and settings, including commenting, 
 ### What is inside this repository?
 
 This is an overview entry point for Deskgram 2 with links to more focused module repositories.
+
+## FAQ for getting started
+
+### Where should I start if I do not have a user base yet?
+
+Usually the best route is to prepare accounts and infrastructure first, then decide between [Audience Parser](https://github.com/Deskgram-2/telegram-audience-parser-deskgram-en) and [Join Groups](https://github.com/Deskgram-2/telegram-join-groups-deskgram-en) depending on whether you need users first or an environment layer first.
+
+### Which route usually gives the fastest first result?
+
+The clearest first result usually comes from [Audience Parser](https://github.com/Deskgram-2/telegram-audience-parser-deskgram-en) -> [Direct Messaging](https://github.com/Deskgram-2/telegram-direct-messaging-deskgram-en), because it turns a prepared base into a measurable outreach scenario quickly.
+
+### Is Deskgram 2 still useful without AI?
+
+Yes. AI is only one part of the platform. Infrastructure, parsing, invite, joining, and regular messaging workflows are still useful without AI-enabled routes.
