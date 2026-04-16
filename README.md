@@ -46,6 +46,13 @@ Deskgram 2 is a Telegram automation platform for account management, outreach wo
 - [Audience Parser](https://github.com/Deskgram-2/telegram-audience-parser-deskgram-en)
 - [Join Groups](https://github.com/Deskgram-2/telegram-join-groups-deskgram-en)
 
+## Discovery guides
+
+- [Channel and Group Search](https://github.com/Deskgram-2/telegram-channel-search-deskgram-en)
+- [Similar Channels](https://github.com/Deskgram-2/telegram-similar-channels-deskgram-en)
+- [Comment Audience Parser](https://github.com/Deskgram-2/telegram-comment-audience-parser-deskgram-en)
+- [Active Chat Users Parser](https://github.com/Deskgram-2/telegram-active-chat-users-parser-deskgram-en)
+
 ## Infrastructure and control guides
 
 - [Invite Tool](https://github.com/Deskgram-2/telegram-invite-tool-deskgram-en)
@@ -58,12 +65,15 @@ Deskgram 2 is a Telegram automation platform for account management, outreach wo
 
 - [Account Manager](https://github.com/Deskgram-2/telegram-account-manager-deskgram-en) -> [Proxy Manager](https://github.com/Deskgram-2/telegram-proxy-manager-deskgram-en) -> [Automation Settings](https://github.com/Deskgram-2/telegram-automation-settings-deskgram-en) builds the base layer.
 - [Audience Parser](https://github.com/Deskgram-2/telegram-audience-parser-deskgram-en) -> [Direct Messaging](https://github.com/Deskgram-2/telegram-direct-messaging-deskgram-en) is the main outreach route.
+- [Channel and Group Search](https://github.com/Deskgram-2/telegram-channel-search-deskgram-en) -> [Similar Channels](https://github.com/Deskgram-2/telegram-similar-channels-deskgram-en) -> [Audience Parser](https://github.com/Deskgram-2/telegram-audience-parser-deskgram-en) is the clearest localized discovery route.
 - [Join Groups](https://github.com/Deskgram-2/telegram-join-groups-deskgram-en) -> [Invite Tool](https://github.com/Deskgram-2/telegram-invite-tool-deskgram-en) supports growth and environment preparation.
 - [Automation Settings](https://github.com/Deskgram-2/telegram-automation-settings-deskgram-en) -> [Neuro Commenting](https://github.com/Deskgram-2/telegram-neuro-commenting-deskgram-en) -> [Task Manager](https://github.com/Deskgram-2/telegram-task-manager-deskgram-en) is the clearest AI-like execution + control chain inside the current EN wave.
 
 ## Suggested workflow chains
 
 - [Account Manager](https://github.com/Deskgram-2/telegram-account-manager-deskgram-en) -> [Proxy Manager](https://github.com/Deskgram-2/telegram-proxy-manager-deskgram-en) -> [Automation Settings](https://github.com/Deskgram-2/telegram-automation-settings-deskgram-en) -> [Audience Parser](https://github.com/Deskgram-2/telegram-audience-parser-deskgram-en) -> [Direct Messaging](https://github.com/Deskgram-2/telegram-direct-messaging-deskgram-en)
+- [Channel and Group Search](https://github.com/Deskgram-2/telegram-channel-search-deskgram-en) -> [Similar Channels](https://github.com/Deskgram-2/telegram-similar-channels-deskgram-en) -> [Comment Audience Parser](https://github.com/Deskgram-2/telegram-comment-audience-parser-deskgram-en) -> [Direct Messaging](https://github.com/Deskgram-2/telegram-direct-messaging-deskgram-en)
+- [Channel and Group Search](https://github.com/Deskgram-2/telegram-channel-search-deskgram-en) -> [Active Chat Users Parser](https://github.com/Deskgram-2/telegram-active-chat-users-parser-deskgram-en) -> [Invite Tool](https://github.com/Deskgram-2/telegram-invite-tool-deskgram-en)
 - [Account Manager](https://github.com/Deskgram-2/telegram-account-manager-deskgram-en) -> [Join Groups](https://github.com/Deskgram-2/telegram-join-groups-deskgram-en) -> [Invite Tool](https://github.com/Deskgram-2/telegram-invite-tool-deskgram-en)
 - [Automation Settings](https://github.com/Deskgram-2/telegram-automation-settings-deskgram-en) -> [Neuro Commenting](https://github.com/Deskgram-2/telegram-neuro-commenting-deskgram-en) -> [Task Manager](https://github.com/Deskgram-2/telegram-task-manager-deskgram-en)
 - [Audience Parser](https://github.com/Deskgram-2/telegram-audience-parser-deskgram-en) -> [Invite Tool](https://github.com/Deskgram-2/telegram-invite-tool-deskgram-en) -> [Task Manager](https://github.com/Deskgram-2/telegram-task-manager-deskgram-en)
@@ -74,6 +84,7 @@ Deskgram 2 is a Telegram automation platform for account management, outreach wo
 | If you want the first practical outcome to be | Better route |
 |---|---|
 | A usable audience base and private outreach | [Audience Parser](https://github.com/Deskgram-2/telegram-audience-parser-deskgram-en) -> [Direct Messaging](https://github.com/Deskgram-2/telegram-direct-messaging-deskgram-en) |
+| A discovery-first route from source research into warm parsing | [Channel and Group Search](https://github.com/Deskgram-2/telegram-channel-search-deskgram-en) -> [Similar Channels](https://github.com/Deskgram-2/telegram-similar-channels-deskgram-en) -> [Comment Audience Parser](https://github.com/Deskgram-2/telegram-comment-audience-parser-deskgram-en) |
 | Community growth through environment preparation | [Join Groups](https://github.com/Deskgram-2/telegram-join-groups-deskgram-en) -> [Invite Tool](https://github.com/Deskgram-2/telegram-invite-tool-deskgram-en) |
 | AI-driven post engagement | [Automation Settings](https://github.com/Deskgram-2/telegram-automation-settings-deskgram-en) -> [Neuro Commenting](https://github.com/Deskgram-2/telegram-neuro-commenting-deskgram-en) |
 | Infrastructure readiness before any campaign starts | [Account Manager](https://github.com/Deskgram-2/telegram-account-manager-deskgram-en) -> [Proxy Manager](https://github.com/Deskgram-2/telegram-proxy-manager-deskgram-en) -> [Automation Settings](https://github.com/Deskgram-2/telegram-automation-settings-deskgram-en) |
