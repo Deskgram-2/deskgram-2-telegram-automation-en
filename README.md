@@ -11,6 +11,8 @@ Deskgram 2 is a Telegram automation platform for account management, outreach wo
 
 Try the module interface in the browser: [Open web preview](https://deskgram2.com/web-preview?path=%2Fapp-demo%2Fhome)
 
+If you want to evaluate the interface before installing anything, open the web preview first: it helps you compare the module with nearby workflows and understand the section before setup.
+
 
 
 ## Why it is useful
@@ -114,6 +116,11 @@ Try the module interface in the browser: [Open web preview](https://deskgram2.co
 5. [Task Manager](https://github.com/Deskgram-2/telegram-task-manager-deskgram-en) to monitor the workflow.
 
 ## FAQ
+
+
+### Can I look at the interface before installing anything?
+
+Yes. This README already includes a direct web preview link, so you can open the module in the browser, inspect the section, and decide whether it matches your workflow before installation and account setup.
 
 ### Is this one module or a full system?
 
