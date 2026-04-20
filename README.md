@@ -1,15 +1,15 @@
-# Deskgram 2 for Telegram Automation
+﻿# Deskgram 2 for Telegram Automation
 
 ![Deskgram 2 overview](assets/screenshots/hub__overview__en.png)
 
 Deskgram 2 is a Telegram automation platform for account management, outreach workflows, AI modules, audience parsing, invite scenarios, and infrastructure setup. This repository acts as the English-language hub and points to more focused repositories for specific use cases.
 
-[Official Website](https://deskgram2.com/) · [Telegram Bot](https://t.me/DG2welcomebot) · [Web Preview](https://deskgram2.com/web-preview) · [Advantages](https://deskgram2.com/advantages)
+[Official Website](https://deskgram2.com/) · [Telegram Bot](https://t.me/DG2welcomebot) · [Web Preview](https://deskgram2.com/web-preview?path=%2Fapp-demo%2F&lang=en) · [Advantages](https://deskgram2.com/advantages)
 ## Interactive Web Preview
 
-[![Interactive Demo](https://img.shields.io/badge/DEMO-Try_in_Browser-brightgreen?style=for-the-badge&logo=google-chrome)](https://deskgram2.com/web-preview?path=%2Fapp-demo%2Fhome)
+[![Interactive Demo](https://img.shields.io/badge/DEMO-Try_in_Browser-brightgreen?style=for-the-badge&logo=google-chrome)](https://deskgram2.com/web-preview?path=%2Fapp-demo%2Fhome&lang=en)
 
-Try the module interface in the browser: [Open web preview](https://deskgram2.com/web-preview?path=%2Fapp-demo%2Fhome)
+Try the module interface in the browser: [Open web preview](https://deskgram2.com/web-preview?path=%2Fapp-demo%2Fhome&lang=en)
 
 If you want to evaluate the interface before installing anything, open the web preview first: it helps you compare the module with nearby workflows and understand the section before setup.
 
@@ -147,3 +147,4 @@ The clearest first result usually comes from [Audience Parser](https://github.co
 ### Is Deskgram 2 still useful without AI?
 
 Yes. AI is only one part of the platform. Infrastructure, parsing, invite, joining, and regular messaging workflows are still useful without AI-enabled routes.
+
